@@ -1,0 +1,14 @@
+{
+  "id": "ferdi-telegram-z",
+  "name": "Telegram Z",
+  "version": "1.0.0",
+  "description": "Telegram Z",
+  "main": "index.js",
+  "author": "Miguel Araujo <miguelant.araujo@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webz.telegram.org",
+    "hasTeamId": false,
+    "hasNotificationSound": true
+  }
+}
